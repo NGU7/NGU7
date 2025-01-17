@@ -17,4 +17,4 @@
 
 
 [instagram]: https://www.instagram.com/Ajmcsaucy
-[linkedin]: https://linkedin.com/in/Ijahone_Alleyne
+[linkedin]: [https://linkedin.com/in/Ijahone_Alleyne](https://www.linkedin.com/in/ijahone-alleyne-b61862341/)
